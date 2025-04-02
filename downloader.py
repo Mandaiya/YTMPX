@@ -1,4 +1,3 @@
-#Podangu, [03-04-2025 03:45]
 import os
 from pytubefix import YouTube, request
 from tqdm import tqdm
